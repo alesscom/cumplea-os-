@@ -1,0 +1,12 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#canvasid
+{
+   border-width: 3px;
+   background-color:rgb(52, 165, 202) ;
+}
+
